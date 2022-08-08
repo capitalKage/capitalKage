@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @capitalKage
-- 👀 I’m interested in learning coding so I can better understand and assist the developers I manage at work.
-- 🌱 I’m currently learning Python
+- 👀 I’m a full time program manager for telematics company and I have a BS in Computer Science with a major in Game Design.
+- 🌱 I’m currently doing game jams and a series of games call Square & Circle.
 - 💞️ I’m looking to get feedback on my coding structure and any mistakes.
 
 <!---
