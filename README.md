@@ -1,53 +1,68 @@
-# Hi, I'm KG (Kyle “KG” Rinn) 👋
+# Hi, I'm Kyle "KG" Rinn 👋
 
-🎮 **Solo Game Developer | Indie Creator | Program Manager**  
-Bringing together a background in Telematic / Mobile devices and a passion for games and storytelling. I build emotionally resonant games alongside my professional work in Connected Car Services as a Program Manager. Currently developing **Koloft**, a perspective-shifting puzzle adventure built in **Godot 4**.
-
----
-
-## 💼 Professional Background  
-- 📌 Currently: **Program Manager / Jet Bridge LLC**  
-- 🕰️ Past: Worked in [Previous Role(s) or Industry — e.g. telematics, connected vehicles, QA, automation]  
-- 🧰 Core Skills: [List 3–5 professional/technical skills you’re proud of — e.g. automation, data pipelines, scripting, systems design]
+🎮 **Solo Game Developer | Marine Corps Veteran | Program Manager**  
+I combine a background in **connected technologies, QA, and program management** with a passion for building **thoughtful indie games**. Currently, I’m developing **Koloft**, a dual-world puzzle adventure in **Godot 4**.
 
 ---
 
-## 🚀 Current Project  
-- 🌌 [**Koloft**](https://github.com/capitalKage/koloft) – A puzzle platformer about perspective-shifting and resilience.  
+## 🚀 Current Project
+- 🌌 [**Koloft**](https://github.com/capitalKage/koloft) – Puzzle platformer exploring perspective and resilience.  
   Players swap between two contrasting worlds — one muted and heavy, the other bright and hopeful — to solve puzzles that metaphorically reflect inner struggles.  
 
 ---
 
-## 🛠 Tech & Tools  
-- **Game Engine:** Godot 4 (GDScript, TileMap, AnimationTree, Shaders)  
-- **Languages:** GDScript, JavaScript, Python, C#  
-- **Art Tools:** Inkscape, Krita (Minimalist & Paper-Cut styles)  
-- **Project Management:** GitHub Projects (Issues / Kanban / Milestones)  
-- **Other Domains:** [Add relevant professional tools from your LinkedIn — e.g. SQL, automation frameworks, embedded systems, etc.]
+## 💼 Professional Background
+- **Program Manager @ JB Mobility (2020–Present)**  
+  Leading cloud-based telematics and connected vehicle software initiatives. Focused on risk management, stakeholder alignment, QA, and continuous improvement.  
+
+- **Project Manager @ Connect Up Technologies (2018–2020)**  
+  Delivered mobile/wireless solutions and managed vendor + internal teams.  
+
+- **Technical Account Manager & Engineer @ Alcatel Mobile (2014–2018)**  
+  Supported mobile communications and QA, bridging technical teams and business needs.  
+
+- **Validation Lead (2013–2014)**  
+  Oversaw wireless validation projects ensuring device readiness.  
+
+- **United States Marine Corps (2007–2011)**  
+  Served as Corporal (E-4) Combat Team Leader. Honed leadership, discipline, and resilience.  
 
 ---
 
-## 📈 Koloft Roadmap  
-- ✅ Month 1: Core mechanic (world swap + puzzle prototype)  
-- 🚧 Month 2: Puzzle expansion & light narrative  
-- 🔜 Month 3: Vertical slice & release on Itch.io  
+## 🎓 Education & Certifications
+- 🎓 **BS, Game Design** – Full Sail University (2019–2021)  
+- 📜 **Google IT Support Professional Certificate** (Coursera, 2020)  
+- 📜 **Accredited Scrum Master Certificate** (2018)  
 
 ---
 
-## 🌱 What I’m Learning & Exploring  
-- Advanced Godot techniques & optimization  
-- Puzzle / narrative game design  
-- Expressive minimal & paper-cut style art  
-- Combining indie game dev and professional technical work  
+## 🛠 Skills
+- **Game Development:** Godot 4, Unity, GDScript, C#, Game Design  
+- **Technical Expertise:** Mobile Communications, Wireless, RF, QA, Automation  
+- **Project Management:** Scrum, Stakeholder Analysis, Program Implementation, IT Projects  
+- **Leadership:** Coaching, Operational Planning, Communication, Teamwork  
 
 ---
 
-## 📫 Connect With Me  
-- LinkedIn: [Kyle Rinn](https://www.linkedin.com/in/kyle-rinn)  
+## 🌱 What I’m Learning
+- Advanced Godot scripting & optimization  
+- Puzzle and narrative design for indie games  
+- Minimalist & collage-inspired art styles  
+- AI/ML for QA and creative workflows  
+
+---
+
+## 🤝 Volunteering
+- **Developer Relations @ Games to Grunts** – Supporting veterans through gaming  
+- **Game Tester @ Full Sail UX Lab** – Hands-on game design feedback & testing  
+
+---
+
+## 📫 Connect
 - GitHub: [capitalKage](https://github.com/capitalKage)  
+- LinkedIn: [Kyle Rinn](https://www.linkedin.com/in/kyle-rinn)  
 - Itch.io: *(coming soon)*  
-- Twitter / Instagram / Devlog: @kylerinn1
 
 ---
 
-⭐️ _Follow my journey as I build **Koloft** and integrate my passion for games with my professional finesse._
+⭐️ _Follow my journey as I build **Koloft** and merge discipline, resilience, and creativity into meaningful games._
