@@ -61,7 +61,7 @@ I combine a background in **connected technologies, QA, and program management**
 ## 📫 Connect
 - GitHub: [capitalKage](https://github.com/capitalKage)  
 - LinkedIn: [Kyle Rinn](https://www.linkedin.com/in/kyle-rinn)  
-- Itch.io: *(coming soon)*  
+- Itch.io: https://kgstudiogames.itch.io/ 
 
 ---
 
