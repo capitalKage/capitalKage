@@ -1,7 +1,7 @@
 # Hi, I'm Kyle "KG" Rinn 👋
 
 🎮 **Solo Game Developer | Marine Corps Veteran | Program Manager**  
-I combine a background in **connected technologies, QA, and program management** with a passion for building **thoughtful indie games**. Currently, I’m developing **Koloft**, a dual-world puzzle adventure in **Godot 4**.
+I combine a background in **connected technologies, QA, and program management** with a passion for building **thoughtful indie games**. Currently, I’m developing **Koloft**, a dual-world puzzle adventure in **Unity 6**.
 
 ---
 
